@@ -1,0 +1,2 @@
+# smartmirror
+smart mirror project
